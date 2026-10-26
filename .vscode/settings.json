@@ -1,0 +1,9 @@
+{
+  "chat.tools.terminal.autoApprove": {
+    "Get-Command": true,
+    "/^Copy-Item -LiteralPath 'C:\\\\Users\\\\siri\\\\AppData\\\\Roaming\\\\Code\\\\agentSessionData\\\\61f4d6af-f2d5-483e-b227-68eca1cd64f3\\\\attachments\\\\2e750e7b-ad33-4f64-80b9-93b0c82f32f5\\\\Pasted Image\\.jpe' -Destination 'C:\\\\Users\\\\siri\\\\Downloads\\\\behavioral-finance-fullstack\\\\objectives-preview\\.png'$/": {
+      "approve": true,
+      "matchCommandLine": true
+    }
+  }
+}
